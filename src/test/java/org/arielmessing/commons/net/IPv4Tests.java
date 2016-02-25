@@ -1,5 +1,6 @@
-package org.messing.common.net;
+package org.arielmessing.commons.net;
 
+import org.arielmessing.commons.net.IPv4;
 import org.junit.Assert;
 import org.junit.Test;
 

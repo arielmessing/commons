@@ -1,4 +1,4 @@
-package org.messing.common.net;
+package org.arielmessing.commons.net;
 
 import java.util.StringTokenizer;
 import java.util.regex.Matcher;
